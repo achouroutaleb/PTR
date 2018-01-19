@@ -1,0 +1,1261 @@
+le Train 3  veut s'engager sur la voie AB
+le Train 3  est sur la voie AB
+le Train 2  veut s'engager sur la voie AB
+le Train 2  est sur la voie AB
+le Train 3  sort de la voie AB
+le Train 2  sort de la voie AB
+le Train 1  veut s'engager sur la voie  AB
+le Train 1  est sur la voie  AB
+le Train 3  veut s'engager sur la voie BD
+le Train 3  est sur la voie BD
+le Train 2  veut s'engager sur la voie BD
+le Train 2  est sur la voie BD
+le Train 1  sort de la voie  AB
+le Train 1  veut s'engager sur la voie  BC
+le Train 1  est sur la voie  BC
+le Train 3  sort de la voie BD
+le Train 2  sort de la voie BD
+le Train 1  sort de la voie  BC
+le train 3 : fini un sens
+le Train 3  veut s'engager sur la voie CE
+le Train 3  est sur la voie CE
+le train 2 : fini un sens
+le Train 2  veut s'engager sur la voie CB
+le Train 3  sort la voie CE
+le Train 2  est sur la voie CB
+le train 1 : fini un sens
+le Train 1  veut s'engager sur la voie  CB
+le Train 3  veut s'engager sur la voie EA
+le Train 2  sort de la voie CB
+le Train 1  est sur la voie  CB
+le Train 2  veut s'engager sur la voie BA
+le Train 1  sort de la voie  CB
+le Train 3  est sur la voie EA
+le Train 3  sort la voie EA
+le Train 1  veut s'engager sur la voie  BA
+le Train 1  est sur la voie  BA
+ fin de parcour le train 3 : 
+le Train 1  sort de la voie  BA
+le Train 2  est sur la voie BA
+le Train 2  sort de la voie BA
+ fin de parcour le train 2 : 
+le Train 3  veut s'engager sur la voie AB
+le Train 3  est sur la voie AB
+le Train 2  veut s'engager sur la voie AB
+le Train 2  est sur la voie AB
+le Train 3  sort de la voie AB
+ fin de parcour le train 1 : 
+le Train 2  sort de la voie AB
+le Train 2  veut s'engager sur la voie BD
+le Train 2  est sur la voie BD
+le Train 1  veut s'engager sur la voie  AB
+le Train 1  est sur la voie  AB
+le Train 1  sort de la voie  AB
+le Train 1  veut s'engager sur la voie  BC
+le Train 1  est sur la voie  BC
+le Train 3  veut s'engager sur la voie BD
+le Train 3  est sur la voie BD
+le Train 3  sort de la voie BD
+le Train 2  sort de la voie BD
+le Train 1  sort de la voie  BC
+le train 1 : fini un sens
+le Train 1  veut s'engager sur la voie  CB
+le Train 1  est sur la voie  CB
+le train 3 : fini un sens
+le Train 3  veut s'engager sur la voie CE
+le Train 1  sort de la voie  CB
+le Train 3  est sur la voie CE
+le Train 3  sort la voie CE
+le train 2 : fini un sens
+le Train 2  veut s'engager sur la voie CB
+le Train 2  est sur la voie CB
+le Train 3  veut s'engager sur la voie EA
+le Train 2  sort de la voie CB
+le Train 3  est sur la voie EA
+le Train 1  veut s'engager sur la voie  BA
+le Train 3  sort la voie EA
+le Train 1  est sur la voie  BA
+ fin de parcour le train 3 : 
+le Train 1  sort de la voie  BA
+le Train 3  veut s'engager sur la voie AB
+le Train 3  est sur la voie AB
+le Train 3  sort de la voie AB
+le Train 2  veut s'engager sur la voie BA
+le Train 2  est sur la voie BA
+le Train 2  sort de la voie BA
+ fin de parcour le train 1 : 
+le Train 1  veut s'engager sur la voie  AB
+le Train 1  est sur la voie  AB
+le Train 1  sort de la voie  AB
+le Train 3  veut s'engager sur la voie BD
+le Train 3  est sur la voie BD
+ fin de parcour le train 2 : 
+le Train 2  veut s'engager sur la voie AB
+le Train 2  est sur la voie AB
+le Train 1  veut s'engager sur la voie  BC
+le Train 1  est sur la voie  BC
+le Train 1  sort de la voie  BC
+le Train 3  sort de la voie BD
+le Train 2  sort de la voie AB
+le train 1 : fini un sens
+le Train 1  veut s'engager sur la voie  CB
+le Train 1  est sur la voie  CB
+le Train 1  sort de la voie  CB
+le Train 2  veut s'engager sur la voie BD
+le Train 2  est sur la voie BD
+le train 3 : fini un sens
+le Train 3  veut s'engager sur la voie CE
+le Train 2  sort de la voie BD
+le Train 3  est sur la voie CE
+le Train 3  sort la voie CE
+le Train 3  veut s'engager sur la voie EA
+le Train 3  est sur la voie EA
+le Train 1  veut s'engager sur la voie  BA
+le Train 3  sort la voie EA
+ fin de parcour le train 3 : 
+le Train 1  est sur la voie  BA
+le Train 3  veut s'engager sur la voie AB
+le train 2 : fini un sens
+le Train 2  veut s'engager sur la voie CB
+le Train 1  sort de la voie  BA
+le Train 3  est sur la voie AB
+ fin de parcour le train 1 : 
+le Train 1  veut s'engager sur la voie  AB
+le Train 1  est sur la voie  AB
+le Train 3  sort de la voie AB
+le Train 1  sort de la voie  AB
+le Train 2  est sur la voie CB
+le Train 2  sort de la voie CB
+le Train 1  veut s'engager sur la voie  BC
+le Train 1  est sur la voie  BC
+le Train 1  sort de la voie  BC
+le Train 3  veut s'engager sur la voie BD
+le Train 3  est sur la voie BD
+le Train 2  veut s'engager sur la voie BA
+le train 1 : fini un sens
+le Train 1  veut s'engager sur la voie  CB
+le Train 3  sort de la voie BD
+le Train 2  est sur la voie BA
+le Train 2  sort de la voie BA
+le Train 1  est sur la voie  CB
+le Train 1  sort de la voie  CB
+le train 3 : fini un sens
+le Train 3  veut s'engager sur la voie CE
+le Train 3  est sur la voie CE
+le Train 3  sort la voie CE
+le Train 3  veut s'engager sur la voie EA
+le Train 3  est sur la voie EA
+le Train 3  sort la voie EA
+ fin de parcour le train 3 : 
+le Train 3  veut s'engager sur la voie AB
+le Train 3  est sur la voie AB
+le Train 3  sort de la voie AB
+ fin de parcour le train 2 : 
+le Train 2  veut s'engager sur la voie AB
+le Train 2  est sur la voie AB
+le Train 1  veut s'engager sur la voie  BA
+le Train 2  sort de la voie AB
+le Train 1  est sur la voie  BA
+le Train 3  veut s'engager sur la voie BD
+le Train 1  sort de la voie  BA
+le Train 3  est sur la voie BD
+le Train 3  sort de la voie BD
+le train 3 : fini un sens
+le Train 3  veut s'engager sur la voie CE
+le Train 3  est sur la voie CE
+le Train 3  sort la voie CE
+le Train 3  veut s'engager sur la voie EA
+le Train 3  est sur la voie EA
+le Train 2  veut s'engager sur la voie BD
+ fin de parcour le train 1 : 
+le Train 1  veut s'engager sur la voie  AB
+le Train 3  sort la voie EA
+le Train 2  est sur la voie BD
+le Train 1  est sur la voie  AB
+le Train 2  sort de la voie BD
+le Train 1  sort de la voie  AB
+ fin de parcour le train 3 : 
+le train 2 : fini un sens
+le Train 2  veut s'engager sur la voie CB
+le Train 2  est sur la voie CB
+le Train 2  sort de la voie CB
+le Train 3  veut s'engager sur la voie AB
+le Train 3  est sur la voie AB
+le Train 2  veut s'engager sur la voie BA
+le Train 1  veut s'engager sur la voie  BC
+le Train 1  est sur la voie  BC
+le Train 1  sort de la voie  BC
+le Train 3  sort de la voie AB
+le Train 2  est sur la voie BA
+le Train 2  sort de la voie BA
+le train 1 : fini un sens
+le Train 1  veut s'engager sur la voie  CB
+le Train 1  est sur la voie  CB
+le Train 3  veut s'engager sur la voie BD
+ fin de parcour le train 2 : 
+le Train 2  veut s'engager sur la voie AB
+le Train 1  sort de la voie  CB
+le Train 3  est sur la voie BD
+le Train 2  est sur la voie AB
+le Train 3  sort de la voie BD
+le Train 2  sort de la voie AB
+le Train 1  veut s'engager sur la voie  BA
+le Train 1  est sur la voie  BA
+le train 3 : fini un sens
+le Train 3  veut s'engager sur la voie CE
+le Train 2  veut s'engager sur la voie BD
+le Train 1  sort de la voie  BA
+le Train 2  est sur la voie BD
+le Train 2  sort de la voie BD
+le Train 3  est sur la voie CE
+ fin de parcour le train 1 : 
+le Train 1  veut s'engager sur la voie  AB
+le Train 3  sort la voie CE
+le Train 1  est sur la voie  AB
+le Train 1  sort de la voie  AB
+le Train 3  veut s'engager sur la voie EA
+le Train 3  est sur la voie EA
+le Train 3  sort la voie EA
+ fin de parcour le train 3 : 
+le Train 3  veut s'engager sur la voie AB
+le Train 3  est sur la voie AB
+le train 2 : fini un sens
+le Train 2  veut s'engager sur la voie CB
+le Train 3  sort de la voie AB
+le Train 2  est sur la voie CB
+le Train 1  veut s'engager sur la voie  BC
+le Train 2  sort de la voie CB
+le Train 1  est sur la voie  BC
+le Train 3  veut s'engager sur la voie BD
+le Train 3  est sur la voie BD
+le Train 2  veut s'engager sur la voie BA
+le Train 1  sort de la voie  BC
+le train 1 : fini un sens
+le Train 1  veut s'engager sur la voie  CB
+le Train 3  sort de la voie BD
+le Train 2  est sur la voie BA
+le train 3 : fini un sens
+le Train 3  veut s'engager sur la voie CE
+le Train 2  sort de la voie BA
+le Train 1  est sur la voie  CB
+ fin de parcour le train 2 : 
+le Train 2  veut s'engager sur la voie AB
+le Train 1  sort de la voie  CB
+le Train 2  est sur la voie AB
+le Train 2  sort de la voie AB
+le Train 3  est sur la voie CE
+le Train 2  veut s'engager sur la voie BD
+le Train 1  veut s'engager sur la voie  BA
+le Train 3  sort la voie CE
+le Train 2  est sur la voie BD
+le Train 2  sort de la voie BD
+le Train 1  est sur la voie  BA
+le Train 3  veut s'engager sur la voie EA
+le Train 1  sort de la voie  BA
+le Train 3  est sur la voie EA
+le Train 3  sort la voie EA
+ fin de parcour le train 3 : 
+le Train 3  veut s'engager sur la voie AB
+le Train 3  est sur la voie AB
+le train 2 : fini un sens
+le Train 2  veut s'engager sur la voie CB
+le Train 3  sort de la voie AB
+le Train 2  est sur la voie CB
+ fin de parcour le train 1 : 
+le Train 1  veut s'engager sur la voie  AB
+le Train 2  sort de la voie CB
+le Train 1  est sur la voie  AB
+le Train 3  veut s'engager sur la voie BD
+le Train 3  est sur la voie BD
+le Train 1  sort de la voie  AB
+le Train 1  veut s'engager sur la voie  BC
+le Train 1  est sur la voie  BC
+le Train 1  sort de la voie  BC
+le Train 2  veut s'engager sur la voie BA
+le Train 3  sort de la voie BD
+le Train 2  est sur la voie BA
+le train 1 : fini un sens
+le Train 1  veut s'engager sur la voie  CB
+le train 3 : fini un sens
+le Train 3  veut s'engager sur la voie CE
+le Train 2  sort de la voie BA
+le Train 1  est sur la voie  CB
+le Train 1  sort de la voie  CB
+le Train 3  est sur la voie CE
+le Train 3  sort la voie CE
+le Train 3  veut s'engager sur la voie EA
+le Train 3  est sur la voie EA
+le Train 3  sort la voie EA
+ fin de parcour le train 2 : 
+le Train 1  veut s'engager sur la voie  BA
+le Train 1  est sur la voie  BA
+le Train 1  sort de la voie  BA
+le Train 2  veut s'engager sur la voie AB
+le Train 2  est sur la voie AB
+ fin de parcour le train 1 : 
+le Train 1  veut s'engager sur la voie  AB
+le Train 1  est sur la voie  AB
+ fin de parcour le train 3 : 
+le Train 3  veut s'engager sur la voie AB
+le Train 3  est sur la voie AB
+le Train 2  sort de la voie AB
+le Train 1  sort de la voie  AB
+le Train 3  sort de la voie AB
+le Train 2  veut s'engager sur la voie BD
+le Train 2  est sur la voie BD
+le Train 2  sort de la voie BD
+le Train 3  veut s'engager sur la voie BD
+le Train 3  est sur la voie BD
+le train 2 : fini un sens
+le Train 2  veut s'engager sur la voie CB
+le Train 1  veut s'engager sur la voie  BC
+le Train 1  est sur la voie  BC
+le Train 3  sort de la voie BD
+le Train 1  sort de la voie  BC
+le Train 2  est sur la voie CB
+le Train 2  sort de la voie CB
+le train 3 : fini un sens
+le Train 3  veut s'engager sur la voie CE
+le Train 3  est sur la voie CE
+le train 1 : fini un sens
+le Train 1  veut s'engager sur la voie  CB
+le Train 2  veut s'engager sur la voie BA
+le Train 3  sort la voie CE
+le Train 1  est sur la voie  CB
+le Train 1  sort de la voie  CB
+le Train 2  est sur la voie BA
+le Train 3  veut s'engager sur la voie EA
+le Train 1  veut s'engager sur la voie  BA
+le Train 2  sort de la voie BA
+le Train 3  est sur la voie EA
+ fin de parcour le train 2 : 
+le Train 3  sort la voie EA
+le Train 1  est sur la voie  BA
+le Train 2  veut s'engager sur la voie AB
+le Train 1  sort de la voie  BA
+le Train 2  est sur la voie AB
+le Train 2  sort de la voie AB
+le Train 2  veut s'engager sur la voie BD
+le Train 2  est sur la voie BD
+ fin de parcour le train 1 : 
+le Train 1  veut s'engager sur la voie  AB
+le Train 1  est sur la voie  AB
+le Train 1  sort de la voie  AB
+ fin de parcour le train 3 : 
+le Train 3  veut s'engager sur la voie AB
+le Train 3  est sur la voie AB
+le Train 2  sort de la voie BD
+le Train 3  sort de la voie AB
+le Train 1  veut s'engager sur la voie  BC
+le Train 1  est sur la voie  BC
+le Train 1  sort de la voie  BC
+le Train 3  veut s'engager sur la voie BD
+le Train 3  est sur la voie BD
+le train 2 : fini un sens
+le Train 2  veut s'engager sur la voie CB
+le Train 3  sort de la voie BD
+le Train 2  est sur la voie CB
+le train 1 : fini un sens
+le Train 1  veut s'engager sur la voie  CB
+le Train 2  sort de la voie CB
+le Train 1  est sur la voie  CB
+le Train 1  sort de la voie  CB
+le train 3 : fini un sens
+le Train 3  veut s'engager sur la voie CE
+le Train 3  est sur la voie CE
+le Train 1  veut s'engager sur la voie  BA
+le Train 2  veut s'engager sur la voie BA
+le Train 3  sort la voie CE
+le Train 1  est sur la voie  BA
+le Train 1  sort de la voie  BA
+le Train 2  est sur la voie BA
+ fin de parcour le train 1 : 
+le Train 1  veut s'engager sur la voie  AB
+le Train 3  veut s'engager sur la voie EA
+le Train 2  sort de la voie BA
+le Train 1  est sur la voie  AB
+ fin de parcour le train 2 : 
+le Train 1  sort de la voie  AB
+le Train 3  est sur la voie EA
+le Train 3  sort la voie EA
+le Train 2  veut s'engager sur la voie AB
+le Train 2  est sur la voie AB
+le Train 2  sort de la voie AB
+ fin de parcour le train 3 : 
+le Train 2  veut s'engager sur la voie BD
+le Train 2  est sur la voie BD
+le Train 3  veut s'engager sur la voie AB
+le Train 3  est sur la voie AB
+le Train 1  veut s'engager sur la voie  BC
+le Train 1  est sur la voie  BC
+le Train 2  sort de la voie BD
+le Train 3  sort de la voie AB
+le Train 1  sort de la voie  BC
+le train 1 : fini un sens
+le Train 1  veut s'engager sur la voie  CB
+le Train 1  est sur la voie  CB
+le Train 1  sort de la voie  CB
+le Train 1  veut s'engager sur la voie  BA
+le Train 1  est sur la voie  BA
+le Train 3  veut s'engager sur la voie BD
+le Train 1  sort de la voie  BA
+le train 2 : fini un sens
+le Train 2  veut s'engager sur la voie CB
+le Train 3  est sur la voie BD
+le Train 3  sort de la voie BD
+le Train 2  est sur la voie CB
+le Train 2  sort de la voie CB
+ fin de parcour le train 1 : 
+le Train 1  veut s'engager sur la voie  AB
+le Train 1  est sur la voie  AB
+le Train 1  sort de la voie  AB
+le train 3 : fini un sens
+le Train 3  veut s'engager sur la voie CE
+le Train 3  est sur la voie CE
+le Train 2  veut s'engager sur la voie BA
+le Train 3  sort la voie CE
+le Train 2  est sur la voie BA
+le Train 1  veut s'engager sur la voie  BC
+le Train 2  sort de la voie BA
+le Train 1  est sur la voie  BC
+le Train 1  sort de la voie  BC
+le train 1 : fini un sens
+le Train 1  veut s'engager sur la voie  CB
+le Train 1  est sur la voie  CB
+le Train 3  veut s'engager sur la voie EA
+le Train 1  sort de la voie  CB
+le Train 3  est sur la voie EA
+le Train 1  veut s'engager sur la voie  BA
+le Train 3  sort la voie EA
+le Train 1  est sur la voie  BA
+le Train 1  sort de la voie  BA
+ fin de parcour le train 1 : 
+le Train 1  veut s'engager sur la voie  AB
+le Train 1  est sur la voie  AB
+ fin de parcour le train 2 : 
+le Train 2  veut s'engager sur la voie AB
+le Train 2  est sur la voie AB
+le Train 2  sort de la voie AB
+ fin de parcour le train 3 : 
+le Train 3  veut s'engager sur la voie AB
+le Train 3  est sur la voie AB
+le Train 3  sort de la voie AB
+le Train 1  sort de la voie  AB
+le Train 1  veut s'engager sur la voie  BC
+le Train 1  est sur la voie  BC
+le Train 1  sort de la voie  BC
+le train 1 : fini un sens
+le Train 1  veut s'engager sur la voie  CB
+le Train 1  est sur la voie  CB
+le Train 1  sort de la voie  CB
+le Train 2  veut s'engager sur la voie BD
+le Train 2  est sur la voie BD
+le Train 1  veut s'engager sur la voie  BA
+le Train 2  sort de la voie BD
+le Train 3  veut s'engager sur la voie BD
+le Train 3  est sur la voie BD
+le train 2 : fini un sens
+le Train 2  veut s'engager sur la voie CB
+le Train 3  sort de la voie BD
+le Train 1  est sur la voie  BA
+le train 3 : fini un sens
+le Train 3  veut s'engager sur la voie CE
+le Train 1  sort de la voie  BA
+le Train 2  est sur la voie CB
+le Train 2  sort de la voie CB
+le Train 3  est sur la voie CE
+le Train 3  sort la voie CE
+le Train 2  veut s'engager sur la voie BA
+le Train 2  est sur la voie BA
+le Train 2  sort de la voie BA
+ fin de parcour le train 1 : 
+le Train 1  veut s'engager sur la voie  AB
+le Train 1  est sur la voie  AB
+ fin de parcour le train 2 : 
+le Train 2  veut s'engager sur la voie AB
+le Train 2  est sur la voie AB
+le Train 3  veut s'engager sur la voie EA
+le Train 1  sort de la voie  AB
+le Train 2  sort de la voie AB
+le Train 3  est sur la voie EA
+le Train 3  sort la voie EA
+ fin de parcour le train 3 : 
+le Train 3  veut s'engager sur la voie AB
+le Train 3  est sur la voie AB
+le Train 1  veut s'engager sur la voie  BC
+le Train 1  est sur la voie  BC
+le Train 2  veut s'engager sur la voie BD
+le Train 2  est sur la voie BD
+le Train 3  sort de la voie AB
+le Train 1  sort de la voie  BC
+le Train 2  sort de la voie BD
+le Train 3  veut s'engager sur la voie BD
+le Train 3  est sur la voie BD
+le train 1 : fini un sens
+le Train 1  veut s'engager sur la voie  CB
+le Train 3  sort de la voie BD
+le Train 1  est sur la voie  CB
+le train 2 : fini un sens
+le Train 2  veut s'engager sur la voie CB
+le train 3 : fini un sens
+le Train 3  veut s'engager sur la voie CE
+le Train 1  sort de la voie  CB
+le Train 2  est sur la voie CB
+le Train 1  veut s'engager sur la voie  BA
+le Train 2  sort de la voie CB
+le Train 3  est sur la voie CE
+le Train 3  sort la voie CE
+le Train 1  est sur la voie  BA
+le Train 1  sort de la voie  BA
+le Train 2  veut s'engager sur la voie BA
+le Train 2  est sur la voie BA
+ fin de parcour le train 1 : 
+le Train 1  veut s'engager sur la voie  AB
+le Train 2  sort de la voie BA
+le Train 1  est sur la voie  AB
+le Train 3  veut s'engager sur la voie EA
+le Train 1  sort de la voie  AB
+le Train 3  est sur la voie EA
+le Train 1  veut s'engager sur la voie  BC
+le Train 3  sort la voie EA
+le Train 1  est sur la voie  BC
+le Train 1  sort de la voie  BC
+ fin de parcour le train 2 : 
+le train 1 : fini un sens
+le Train 1  veut s'engager sur la voie  CB
+le Train 1  est sur la voie  CB
+le Train 2  veut s'engager sur la voie AB
+ fin de parcour le train 3 : 
+le Train 1  sort de la voie  CB
+le Train 2  est sur la voie AB
+le Train 3  veut s'engager sur la voie AB
+le Train 3  est sur la voie AB
+le Train 2  sort de la voie AB
+le Train 3  sort de la voie AB
+le Train 1  veut s'engager sur la voie  BA
+le Train 1  est sur la voie  BA
+le Train 1  sort de la voie  BA
+le Train 2  veut s'engager sur la voie BD
+le Train 2  est sur la voie BD
+ fin de parcour le train 1 : 
+le Train 3  veut s'engager sur la voie BD
+le Train 3  est sur la voie BD
+le Train 1  veut s'engager sur la voie  AB
+le Train 1  est sur la voie  AB
+le Train 1  sort de la voie  AB
+le Train 1  veut s'engager sur la voie  BC
+le Train 1  est sur la voie  BC
+le Train 2  sort de la voie BD
+le Train 3  sort de la voie BD
+le Train 1  sort de la voie  BC
+le train 1 : fini un sens
+le Train 1  veut s'engager sur la voie  CB
+le Train 1  est sur la voie  CB
+le Train 1  sort de la voie  CB
+le train 2 : fini un sens
+le Train 2  veut s'engager sur la voie CB
+le Train 2  est sur la voie CB
+le Train 1  veut s'engager sur la voie  BA
+le train 3 : fini un sens
+le Train 3  veut s'engager sur la voie CE
+le Train 2  sort de la voie CB
+le Train 1  est sur la voie  BA
+le Train 2  veut s'engager sur la voie BA
+le Train 1  sort de la voie  BA
+le Train 3  est sur la voie CE
+ fin de parcour le train 1 : 
+le Train 1  veut s'engager sur la voie  AB
+le Train 3  sort la voie CE
+le Train 1  est sur la voie  AB
+le Train 1  sort de la voie  AB
+le Train 2  est sur la voie BA
+le Train 3  veut s'engager sur la voie EA
+le Train 2  sort de la voie BA
+le Train 1  veut s'engager sur la voie  BC
+le Train 1  est sur la voie  BC
+le Train 1  sort de la voie  BC
+le Train 3  est sur la voie EA
+le Train 3  sort la voie EA
+ fin de parcour le train 2 : 
+le Train 2  veut s'engager sur la voie AB
+le Train 2  est sur la voie AB
+ fin de parcour le train 3 : 
+le Train 3  veut s'engager sur la voie AB
+le Train 3  est sur la voie AB
+le train 1 : fini un sens
+le Train 1  veut s'engager sur la voie  CB
+le Train 2  sort de la voie AB
+le Train 3  sort de la voie AB
+le Train 1  est sur la voie  CB
+le Train 3  veut s'engager sur la voie BD
+le Train 2  veut s'engager sur la voie BD
+le Train 1  sort de la voie  CB
+le Train 3  est sur la voie BD
+le Train 1  veut s'engager sur la voie  BA
+le Train 3  sort de la voie BD
+le Train 2  est sur la voie BD
+le train 3 : fini un sens
+le Train 3  veut s'engager sur la voie CE
+le Train 2  sort de la voie BD
+le Train 1  est sur la voie  BA
+le train 2 : fini un sens
+le Train 2  veut s'engager sur la voie CB
+le Train 1  sort de la voie  BA
+le Train 3  est sur la voie CE
+le Train 3  sort la voie CE
+le Train 2  est sur la voie CB
+le Train 2  sort de la voie CB
+ fin de parcour le train 1 : 
+le Train 3  veut s'engager sur la voie EA
+le Train 3  est sur la voie EA
+le Train 3  sort la voie EA
+le Train 1  veut s'engager sur la voie  AB
+le Train 1  est sur la voie  AB
+le Train 1  sort de la voie  AB
+le Train 2  veut s'engager sur la voie BA
+le Train 2  est sur la voie BA
+le Train 2  sort de la voie BA
+ fin de parcour le train 2 : 
+le Train 2  veut s'engager sur la voie AB
+le Train 2  est sur la voie AB
+le Train 2  sort de la voie AB
+ fin de parcour le train 3 : 
+le Train 3  veut s'engager sur la voie AB
+le Train 3  est sur la voie AB
+le Train 1  veut s'engager sur la voie  BC
+le Train 1  est sur la voie  BC
+le Train 1  sort de la voie  BC
+le Train 3  sort de la voie AB
+le train 1 : fini un sens
+le Train 1  veut s'engager sur la voie  CB
+le Train 1  est sur la voie  CB
+le Train 1  sort de la voie  CB
+le Train 2  veut s'engager sur la voie BD
+le Train 2  est sur la voie BD
+le Train 1  veut s'engager sur la voie  BA
+le Train 2  sort de la voie BD
+le Train 1  est sur la voie  BA
+le Train 3  veut s'engager sur la voie BD
+le Train 1  sort de la voie  BA
+ fin de parcour le train 1 : 
+le Train 3  est sur la voie BD
+le Train 1  veut s'engager sur la voie  AB
+le Train 1  est sur la voie  AB
+le Train 1  sort de la voie  AB
+le train 2 : fini un sens
+le Train 2  veut s'engager sur la voie CB
+le Train 3  sort de la voie BD
+le Train 2  est sur la voie CB
+le Train 1  veut s'engager sur la voie  BC
+le train 3 : fini un sens
+le Train 3  veut s'engager sur la voie CE
+le Train 2  sort de la voie CB
+le Train 1  est sur la voie  BC
+le Train 1  sort de la voie  BC
+le Train 3  est sur la voie CE
+le train 1 : fini un sens
+le Train 1  veut s'engager sur la voie  CB
+le Train 3  sort la voie CE
+le Train 1  est sur la voie  CB
+le Train 2  veut s'engager sur la voie BA
+le Train 1  sort de la voie  CB
+le Train 2  est sur la voie BA
+le Train 2  sort de la voie BA
+ fin de parcour le train 2 : 
+le Train 2  veut s'engager sur la voie AB
+le Train 2  est sur la voie AB
+le Train 2  sort de la voie AB
+le Train 3  veut s'engager sur la voie EA
+le Train 3  est sur la voie EA
+le Train 3  sort la voie EA
+le Train 1  veut s'engager sur la voie  BA
+le Train 1  est sur la voie  BA
+ fin de parcour le train 3 : 
+le Train 3  veut s'engager sur la voie AB
+le Train 2  veut s'engager sur la voie BD
+le Train 1  sort de la voie  BA
+le Train 3  est sur la voie AB
+le Train 2  est sur la voie BD
+le Train 2  sort de la voie BD
+le Train 3  sort de la voie AB
+ fin de parcour le train 1 : 
+le Train 1  veut s'engager sur la voie  AB
+le Train 1  est sur la voie  AB
+le train 2 : fini un sens
+le Train 2  veut s'engager sur la voie CB
+le Train 3  veut s'engager sur la voie BD
+le Train 3  est sur la voie BD
+le Train 1  sort de la voie  AB
+le Train 3  sort de la voie BD
+le Train 2  est sur la voie CB
+le train 3 : fini un sens
+le Train 3  veut s'engager sur la voie CE
+le Train 2  sort de la voie CB
+le Train 3  est sur la voie CE
+le Train 3  sort la voie CE
+le Train 3  veut s'engager sur la voie EA
+le Train 3  est sur la voie EA
+le Train 1  veut s'engager sur la voie  BC
+le Train 3  sort la voie EA
+le Train 1  est sur la voie  BC
+ fin de parcour le train 3 : 
+le Train 1  sort de la voie  BC
+le Train 3  veut s'engager sur la voie AB
+le Train 3  est sur la voie AB
+le train 1 : fini un sens
+le Train 1  veut s'engager sur la voie  CB
+le Train 2  veut s'engager sur la voie BA
+le Train 3  sort de la voie AB
+le Train 1  est sur la voie  CB
+le Train 3  veut s'engager sur la voie BD
+le Train 1  sort de la voie  CB
+le Train 3  est sur la voie BD
+le Train 3  sort de la voie BD
+le Train 2  est sur la voie BA
+le Train 1  veut s'engager sur la voie  BA
+le train 3 : fini un sens
+le Train 3  veut s'engager sur la voie CE
+le Train 2  sort de la voie BA
+le Train 1  est sur la voie  BA
+le Train 1  sort de la voie  BA
+le Train 3  est sur la voie CE
+ fin de parcour le train 1 : 
+le Train 1  veut s'engager sur la voie  AB
+le Train 3  sort la voie CE
+le Train 1  est sur la voie  AB
+le Train 1  sort de la voie  AB
+ fin de parcour le train 2 : 
+le Train 2  veut s'engager sur la voie AB
+le Train 2  est sur la voie AB
+le Train 2  sort de la voie AB
+le Train 3  veut s'engager sur la voie EA
+le Train 3  est sur la voie EA
+le Train 1  veut s'engager sur la voie  BC
+le Train 2  veut s'engager sur la voie BD
+le Train 3  sort la voie EA
+le Train 1  est sur la voie  BC
+le Train 1  sort de la voie  BC
+le train 1 : fini un sens
+le Train 1  veut s'engager sur la voie  CB
+le Train 2  est sur la voie BD
+le Train 2  sort de la voie BD
+le Train 1  est sur la voie  CB
+le Train 1  sort de la voie  CB
+ fin de parcour le train 3 : 
+le Train 3  veut s'engager sur la voie AB
+le Train 3  est sur la voie AB
+le train 2 : fini un sens
+le Train 2  veut s'engager sur la voie CB
+le Train 1  veut s'engager sur la voie  BA
+le Train 3  sort de la voie AB
+le Train 2  est sur la voie CB
+le Train 3  veut s'engager sur la voie BD
+le Train 2  sort de la voie CB
+le Train 3  est sur la voie BD
+le Train 3  sort de la voie BD
+le Train 1  est sur la voie  BA
+le train 3 : fini un sens
+le Train 3  veut s'engager sur la voie CE
+le Train 2  veut s'engager sur la voie BA
+le Train 1  sort de la voie  BA
+le Train 3  est sur la voie CE
+le Train 3  sort la voie CE
+le Train 2  est sur la voie BA
+le Train 2  sort de la voie BA
+ fin de parcour le train 2 : 
+le Train 2  veut s'engager sur la voie AB
+le Train 2  est sur la voie AB
+le Train 2  sort de la voie AB
+le Train 2  veut s'engager sur la voie BD
+le Train 2  est sur la voie BD
+ fin de parcour le train 1 : 
+le Train 3  veut s'engager sur la voie EA
+le Train 1  veut s'engager sur la voie  AB
+le Train 1  est sur la voie  AB
+le Train 2  sort de la voie BD
+le Train 1  sort de la voie  AB
+le Train 3  est sur la voie EA
+le train 2 : fini un sens
+le Train 2  veut s'engager sur la voie CB
+le Train 3  sort la voie EA
+le Train 2  est sur la voie CB
+le Train 2  sort de la voie CB
+le Train 2  veut s'engager sur la voie BA
+le Train 2  est sur la voie BA
+le Train 2  sort de la voie BA
+ fin de parcour le train 2 : 
+le Train 2  veut s'engager sur la voie AB
+le Train 2  est sur la voie AB
+le Train 2  sort de la voie AB
+le Train 2  veut s'engager sur la voie BD
+le Train 2  est sur la voie BD
+le Train 1  veut s'engager sur la voie  BC
+le Train 1  est sur la voie  BC
+ fin de parcour le train 3 : 
+le Train 3  veut s'engager sur la voie AB
+le Train 3  est sur la voie AB
+le Train 2  sort de la voie BD
+le train 2 : fini un sens
+le Train 2  veut s'engager sur la voie CB
+le Train 1  sort de la voie  BC
+le Train 3  sort de la voie AB
+le Train 2  est sur la voie CB
+le Train 3  veut s'engager sur la voie BD
+le train 1 : fini un sens
+le Train 1  veut s'engager sur la voie  CB
+le Train 2  sort de la voie CB
+le Train 3  est sur la voie BD
+le Train 2  veut s'engager sur la voie BA
+le Train 3  sort de la voie BD
+le Train 2  est sur la voie BA
+le train 3 : fini un sens
+le Train 3  veut s'engager sur la voie CE
+le Train 2  sort de la voie BA
+le Train 1  est sur la voie  CB
+ fin de parcour le train 2 : 
+le Train 1  sort de la voie  CB
+le Train 3  est sur la voie CE
+le Train 3  sort la voie CE
+le Train 3  veut s'engager sur la voie EA
+le Train 3  est sur la voie EA
+le Train 2  veut s'engager sur la voie AB
+le Train 3  sort la voie EA
+le Train 2  est sur la voie AB
+ fin de parcour le train 3 : 
+le Train 3  veut s'engager sur la voie AB
+le Train 3  est sur la voie AB
+le Train 2  sort de la voie AB
+le Train 1  veut s'engager sur la voie  BA
+le Train 3  sort de la voie AB
+le Train 2  veut s'engager sur la voie BD
+le Train 1  est sur la voie  BA
+le Train 1  sort de la voie  BA
+le Train 2  est sur la voie BD
+ fin de parcour le train 1 : 
+le Train 2  sort de la voie BD
+le Train 1  veut s'engager sur la voie  AB
+le Train 1  est sur la voie  AB
+le train 2 : fini un sens
+le Train 2  veut s'engager sur la voie CB
+le Train 1  sort de la voie  AB
+le Train 2  est sur la voie CB
+le Train 3  veut s'engager sur la voie BD
+le Train 2  sort de la voie CB
+le Train 2  veut s'engager sur la voie BA
+le Train 3  est sur la voie BD
+le Train 3  sort de la voie BD
+le Train 2  est sur la voie BA
+le Train 2  sort de la voie BA
+le train 3 : fini un sens
+le Train 3  veut s'engager sur la voie CE
+le Train 3  est sur la voie CE
+le Train 1  veut s'engager sur la voie  BC
+le Train 3  sort la voie CE
+le Train 1  est sur la voie  BC
+le Train 1  sort de la voie  BC
+ fin de parcour le train 2 : 
+le Train 2  veut s'engager sur la voie AB
+le Train 2  est sur la voie AB
+le Train 3  veut s'engager sur la voie EA
+le train 1 : fini un sens
+le Train 1  veut s'engager sur la voie  CB
+le Train 2  sort de la voie AB
+le Train 3  est sur la voie EA
+le Train 2  veut s'engager sur la voie BD
+le Train 3  sort la voie EA
+le Train 2  est sur la voie BD
+le Train 2  sort de la voie BD
+le Train 1  est sur la voie  CB
+le Train 1  sort de la voie  CB
+ fin de parcour le train 3 : 
+le train 2 : fini un sens
+le Train 2  veut s'engager sur la voie CB
+le Train 2  est sur la voie CB
+le Train 2  sort de la voie CB
+le Train 2  veut s'engager sur la voie BA
+le Train 2  est sur la voie BA
+le Train 3  veut s'engager sur la voie AB
+le Train 2  sort de la voie BA
+le Train 3  est sur la voie AB
+le Train 3  sort de la voie AB
+ fin de parcour le train 2 : 
+le Train 2  veut s'engager sur la voie AB
+le Train 2  est sur la voie AB
+le Train 1  veut s'engager sur la voie  BA
+le Train 2  sort de la voie AB
+le Train 1  est sur la voie  BA
+le Train 3  veut s'engager sur la voie BD
+le Train 1  sort de la voie  BA
+le Train 3  est sur la voie BD
+le Train 2  veut s'engager sur la voie BD
+le Train 2  est sur la voie BD
+le Train 2  sort de la voie BD
+ fin de parcour le train 1 : 
+le Train 3  sort de la voie BD
+le Train 1  veut s'engager sur la voie  AB
+le Train 1  est sur la voie  AB
+le train 2 : fini un sens
+le Train 2  veut s'engager sur la voie CB
+le train 3 : fini un sens
+le Train 3  veut s'engager sur la voie CE
+le Train 1  sort de la voie  AB
+le Train 2  est sur la voie CB
+le Train 1  veut s'engager sur la voie  BC
+le Train 2  sort de la voie CB
+le Train 1  est sur la voie  BC
+le Train 1  sort de la voie  BC
+le Train 3  est sur la voie CE
+le train 1 : fini un sens
+le Train 1  veut s'engager sur la voie  CB
+le Train 3  sort la voie CE
+le Train 1  est sur la voie  CB
+le Train 2  veut s'engager sur la voie BA
+le Train 1  sort de la voie  CB
+le Train 1  veut s'engager sur la voie  BA
+le Train 1  est sur la voie  BA
+le Train 1  sort de la voie  BA
+le Train 2  est sur la voie BA
+le Train 2  sort de la voie BA
+ fin de parcour le train 1 : 
+ fin de parcour le train 2 : 
+le Train 1  veut s'engager sur la voie  AB
+le Train 1  est sur la voie  AB
+le Train 2  veut s'engager sur la voie AB
+le Train 2  est sur la voie AB
+le Train 2  sort de la voie AB
+le Train 3  veut s'engager sur la voie EA
+le Train 1  sort de la voie  AB
+le Train 3  est sur la voie EA
+le Train 1  veut s'engager sur la voie  BC
+le Train 2  veut s'engager sur la voie BD
+le Train 3  sort la voie EA
+le Train 2  est sur la voie BD
+le Train 1  est sur la voie  BC
+le Train 2  sort de la voie BD
+le Train 1  sort de la voie  BC
+le train 1 : fini un sens
+le Train 1  veut s'engager sur la voie  CB
+le Train 1  est sur la voie  CB
+ fin de parcour le train 3 : 
+le Train 3  veut s'engager sur la voie AB
+le Train 1  sort de la voie  CB
+le Train 3  est sur la voie AB
+le Train 3  sort de la voie AB
+le Train 3  veut s'engager sur la voie BD
+le Train 3  est sur la voie BD
+le train 2 : fini un sens
+le Train 1  veut s'engager sur la voie  BA
+le Train 3  sort de la voie BD
+le Train 1  est sur la voie  BA
+le train 3 : fini un sens
+le Train 3  veut s'engager sur la voie CE
+le Train 2  veut s'engager sur la voie CB
+le Train 1  sort de la voie  BA
+le Train 3  est sur la voie CE
+le Train 3  sort la voie CE
+le Train 2  est sur la voie CB
+ fin de parcour le train 1 : 
+le Train 2  sort de la voie CB
+le Train 1  veut s'engager sur la voie  AB
+le Train 1  est sur la voie  AB
+le Train 1  sort de la voie  AB
+le Train 3  veut s'engager sur la voie EA
+le Train 3  est sur la voie EA
+le Train 2  veut s'engager sur la voie BA
+le Train 1  veut s'engager sur la voie  BC
+le Train 3  sort la voie EA
+le Train 1  est sur la voie  BC
+le Train 1  sort de la voie  BC
+le Train 2  est sur la voie BA
+le train 1 : fini un sens
+le Train 1  veut s'engager sur la voie  CB
+ fin de parcour le train 3 : 
+le Train 3  veut s'engager sur la voie AB
+le Train 2  sort de la voie BA
+le Train 3  est sur la voie AB
+ fin de parcour le train 2 : 
+le Train 3  sort de la voie AB
+le Train 1  est sur la voie  CB
+le Train 1  sort de la voie  CB
+le Train 1  veut s'engager sur la voie  BA
+le Train 1  est sur la voie  BA
+le Train 2  veut s'engager sur la voie AB
+le Train 1  sort de la voie  BA
+le Train 2  est sur la voie AB
+ fin de parcour le train 1 : 
+le Train 2  sort de la voie AB
+le Train 1  veut s'engager sur la voie  AB
+le Train 1  est sur la voie  AB
+le Train 1  sort de la voie  AB
+le Train 1  veut s'engager sur la voie  BC
+le Train 1  est sur la voie  BC
+le Train 1  sort de la voie  BC
+le Train 3  veut s'engager sur la voie BD
+le Train 3  est sur la voie BD
+le Train 2  veut s'engager sur la voie BD
+le Train 2  est sur la voie BD
+le Train 2  sort de la voie BD
+le train 1 : fini un sens
+le Train 1  veut s'engager sur la voie  CB
+le Train 3  sort de la voie BD
+le Train 1  est sur la voie  CB
+le Train 1  sort de la voie  CB
+le train 2 : fini un sens
+le Train 2  veut s'engager sur la voie CB
+le Train 2  est sur la voie CB
+le Train 2  sort de la voie CB
+le Train 2  veut s'engager sur la voie BA
+le Train 2  est sur la voie BA
+le train 3 : fini un sens
+le Train 3  veut s'engager sur la voie CE
+le Train 1  veut s'engager sur la voie  BA
+le Train 2  sort de la voie BA
+le Train 3  est sur la voie CE
+le Train 3  sort la voie CE
+le Train 1  est sur la voie  BA
+le Train 3  veut s'engager sur la voie EA
+ fin de parcour le train 2 : 
+le Train 1  sort de la voie  BA
+le Train 3  est sur la voie EA
+le Train 2  veut s'engager sur la voie AB
+ fin de parcour le train 1 : 
+le Train 3  sort la voie EA
+le Train 2  est sur la voie AB
+ fin de parcour le train 3 : 
+le Train 1  veut s'engager sur la voie  AB
+le Train 1  est sur la voie  AB
+le Train 3  veut s'engager sur la voie AB
+le Train 3  est sur la voie AB
+le Train 3  sort de la voie AB
+le Train 1  sort de la voie  AB
+le Train 2  sort de la voie AB
+le Train 1  veut s'engager sur la voie  BC
+le Train 1  est sur la voie  BC
+le Train 2  veut s'engager sur la voie BD
+le Train 2  est sur la voie BD
+le Train 3  veut s'engager sur la voie BD
+le Train 3  est sur la voie BD
+le Train 1  sort de la voie  BC
+le Train 2  sort de la voie BD
+le train 2 : fini un sens
+le Train 2  veut s'engager sur la voie CB
+le Train 3  sort de la voie BD
+le Train 2  est sur la voie CB
+le train 3 : fini un sens
+le Train 3  veut s'engager sur la voie CE
+le Train 2  sort de la voie CB
+le Train 3  est sur la voie CE
+le Train 2  veut s'engager sur la voie BA
+le train 1 : fini un sens
+le Train 1  veut s'engager sur la voie  CB
+le Train 3  sort la voie CE
+le Train 2  est sur la voie BA
+le Train 2  sort de la voie BA
+le Train 1  est sur la voie  CB
+le Train 3  veut s'engager sur la voie EA
+ fin de parcour le train 2 : 
+le Train 2  veut s'engager sur la voie AB
+le Train 1  sort de la voie  CB
+le Train 2  est sur la voie AB
+le Train 2  sort de la voie AB
+le Train 3  est sur la voie EA
+le Train 3  sort la voie EA
+le Train 2  veut s'engager sur la voie BD
+le Train 2  est sur la voie BD
+le Train 2  sort de la voie BD
+le train 2 : fini un sens
+le Train 2  veut s'engager sur la voie CB
+le Train 2  est sur la voie CB
+le Train 2  sort de la voie CB
+le Train 1  veut s'engager sur la voie  BA
+le Train 1  est sur la voie  BA
+ fin de parcour le train 3 : 
+le Train 3  veut s'engager sur la voie AB
+le Train 2  veut s'engager sur la voie BA
+le Train 1  sort de la voie  BA
+le Train 3  est sur la voie AB
+le Train 3  sort de la voie AB
+le Train 2  est sur la voie BA
+le Train 2  sort de la voie BA
+ fin de parcour le train 2 : 
+le Train 3  veut s'engager sur la voie BD
+le Train 3  est sur la voie BD
+le Train 2  veut s'engager sur la voie AB
+le Train 2  est sur la voie AB
+le Train 3  sort de la voie BD
+ fin de parcour le train 1 : 
+le Train 1  veut s'engager sur la voie  AB
+le Train 1  est sur la voie  AB
+le Train 2  sort de la voie AB
+le train 3 : fini un sens
+le Train 3  veut s'engager sur la voie CE
+le Train 1  sort de la voie  AB
+le Train 3  est sur la voie CE
+le Train 3  sort la voie CE
+le Train 3  veut s'engager sur la voie EA
+le Train 3  est sur la voie EA
+le Train 2  veut s'engager sur la voie BD
+le Train 3  sort la voie EA
+le Train 2  est sur la voie BD
+le Train 1  veut s'engager sur la voie  BC
+le Train 1  est sur la voie  BC
+le Train 2  sort de la voie BD
+le Train 1  sort de la voie  BC
+ fin de parcour le train 3 : 
+le train 2 : fini un sens
+le Train 2  veut s'engager sur la voie CB
+le Train 2  est sur la voie CB
+le Train 3  veut s'engager sur la voie AB
+le Train 2  sort de la voie CB
+le Train 3  est sur la voie AB
+le Train 3  sort de la voie AB
+le train 1 : fini un sens
+le Train 1  veut s'engager sur la voie  CB
+le Train 1  est sur la voie  CB
+le Train 1  sort de la voie  CB
+le Train 2  veut s'engager sur la voie BA
+le Train 2  est sur la voie BA
+le Train 3  veut s'engager sur la voie BD
+le Train 1  veut s'engager sur la voie  BA
+le Train 2  sort de la voie BA
+le Train 3  est sur la voie BD
+ fin de parcour le train 2 : 
+le Train 3  sort de la voie BD
+le Train 1  est sur la voie  BA
+le Train 2  veut s'engager sur la voie AB
+le Train 1  sort de la voie  BA
+le Train 2  est sur la voie AB
+le Train 2  sort de la voie AB
+le train 3 : fini un sens
+le Train 3  veut s'engager sur la voie CE
+le Train 3  est sur la voie CE
+ fin de parcour le train 1 : 
+le Train 1  veut s'engager sur la voie  AB
+le Train 3  sort la voie CE
+le Train 1  est sur la voie  AB
+le Train 3  veut s'engager sur la voie EA
+le Train 2  veut s'engager sur la voie BD
+le Train 2  est sur la voie BD
+le Train 2  sort de la voie BD
+le Train 1  sort de la voie  AB
+le Train 3  est sur la voie EA
+le train 2 : fini un sens
+le Train 2  veut s'engager sur la voie CB
+le Train 1  veut s'engager sur la voie  BC
+le Train 3  sort la voie EA
+le Train 1  est sur la voie  BC
+ fin de parcour le train 3 : 
+le Train 1  sort de la voie  BC
+le Train 2  est sur la voie CB
+le Train 3  veut s'engager sur la voie AB
+le Train 2  sort de la voie CB
+le Train 3  est sur la voie AB
+le Train 3  sort de la voie AB
+le Train 3  veut s'engager sur la voie BD
+le Train 3  est sur la voie BD
+le train 1 : fini un sens
+le Train 1  veut s'engager sur la voie  CB
+le Train 2  veut s'engager sur la voie BA
+le Train 3  sort de la voie BD
+le Train 1  est sur la voie  CB
+le train 3 : fini un sens
+le Train 3  veut s'engager sur la voie CE
+le Train 1  sort de la voie  CB
+le Train 2  est sur la voie BA
+le Train 2  sort de la voie BA
+le Train 3  est sur la voie CE
+le Train 3  sort la voie CE
+le Train 3  veut s'engager sur la voie EA
+le Train 3  est sur la voie EA
+le Train 3  sort la voie EA
+ fin de parcour le train 3 : 
+le Train 3  veut s'engager sur la voie AB
+le Train 3  est sur la voie AB
+le Train 1  veut s'engager sur la voie  BA
+ fin de parcour le train 2 : 
+le Train 2  veut s'engager sur la voie AB
+le Train 2  est sur la voie AB
+le Train 3  sort de la voie AB
+le Train 2  sort de la voie AB
+le Train 1  est sur la voie  BA
+le Train 2  veut s'engager sur la voie BD
+le Train 1  sort de la voie  BA
+ fin de parcour le train 1 : 
+le Train 3  veut s'engager sur la voie BD
+le Train 3  est sur la voie BD
+le Train 2  est sur la voie BD
+le Train 1  veut s'engager sur la voie  AB
+le Train 1  est sur la voie  AB
+le Train 1  sort de la voie  AB
+le Train 3  sort de la voie BD
+le Train 2  sort de la voie BD
+le train 3 : fini un sens
+le Train 3  veut s'engager sur la voie CE
+le Train 3  est sur la voie CE
+le Train 3  sort la voie CE
+le Train 3  veut s'engager sur la voie EA
+le Train 3  est sur la voie EA
+le Train 1  veut s'engager sur la voie  BC
+le Train 3  sort la voie EA
+le Train 1  est sur la voie  BC
+le train 2 : fini un sens
+le Train 2  veut s'engager sur la voie CB
+le Train 1  sort de la voie  BC
+le Train 2  est sur la voie CB
+le Train 2  sort de la voie CB
+ fin de parcour le train 3 : 
+le Train 3  veut s'engager sur la voie AB
+le Train 3  est sur la voie AB
+le Train 3  sort de la voie AB
+le train 1 : fini un sens
+le Train 1  veut s'engager sur la voie  CB
+le Train 1  est sur la voie  CB
+le Train 2  veut s'engager sur la voie BA
+le Train 1  sort de la voie  CB
+le Train 2  est sur la voie BA
+le Train 3  veut s'engager sur la voie BD
+le Train 1  veut s'engager sur la voie  BA
+le Train 2  sort de la voie BA
+le Train 3  est sur la voie BD
+le Train 3  sort de la voie BD
+le Train 1  est sur la voie  BA
+le train 3 : fini un sens
+le Train 3  veut s'engager sur la voie CE
+ fin de parcour le train 2 : 
+le Train 2  veut s'engager sur la voie AB
+le Train 1  sort de la voie  BA
+le Train 2  est sur la voie AB
+le Train 2  sort de la voie AB
+le Train 3  est sur la voie CE
+ fin de parcour le train 1 : 
+le Train 3  sort la voie CE
+le Train 3  veut s'engager sur la voie EA
+le Train 3  est sur la voie EA
+le Train 2  veut s'engager sur la voie BD
+le Train 3  sort la voie EA
+ fin de parcour le train 3 : 
+le Train 2  est sur la voie BD
+le Train 2  sort de la voie BD
+le train 2 : fini un sens
+le Train 2  veut s'engager sur la voie CB
+le Train 2  est sur la voie CB
+le Train 2  sort de la voie CB
+le Train 2  veut s'engager sur la voie BA
+le Train 2  est sur la voie BA
+le Train 2  sort de la voie BA
+ fin de parcour le train 2 : 
+le Train 2  veut s'engager sur la voie AB
+le Train 2  est sur la voie AB
+le Train 2  sort de la voie AB
+le Train 2  veut s'engager sur la voie BD
+le Train 2  est sur la voie BD
+le Train 2  sort de la voie BD
+le train 2 : fini un sens
+le Train 2  veut s'engager sur la voie CB
+le Train 2  est sur la voie CB
+le Train 2  sort de la voie CB
+le Train 2  veut s'engager sur la voie BA
+le Train 2  est sur la voie BA
+le Train 2  sort de la voie BA
+ fin de parcour le train 2 : 
+les Trajets sont terminées
